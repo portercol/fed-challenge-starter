@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Learn to workout from home or when you're on the go!",
+        "img": "/images/placeholder1.png",
+        "link": "https://www.self.com/gallery/15-minute-total-body-workout",
+        "name": "15 Minute Workout"
+    },
+    {
+        "description": "Eating Healthy has never been easier!",
+        "img": "/images/placeholder1.png",
+        "link": "https://www.healthline.com/nutrition/healthy-eating-tips",
+        "name": "Healthy Eating Tips"
+    },
+    {
+        "description": "5 Useful ways to stay motivated at the beginning of the week!",
+        "img": "/images/placeholder1.png",
+        "link": "https://www.lifehack.org/891951/motivation-tips",
+        "name": "Motivation Mondays"
+    }
+]
