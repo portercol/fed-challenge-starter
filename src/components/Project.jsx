@@ -1,5 +1,6 @@
 // import React
 import React from "react";
+import './pages/WorkoutCards.css'
 
 // create Workouts functional component using props
 function Workouts(props) {

@@ -1,0 +1,13 @@
+.card {
+    border: 2px solid #000000;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
